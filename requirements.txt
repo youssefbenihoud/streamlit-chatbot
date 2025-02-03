@@ -3,3 +3,6 @@ sentence-transformers
 transformers
 torch
 faiss-cpu
+numpy
+scipy
+pandas
