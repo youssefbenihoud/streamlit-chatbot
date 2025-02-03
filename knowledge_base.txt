@@ -1,0 +1,4 @@
+Python is a high-level programming language created by Guido van Rossum.
+Streamlit is a Python library used for building web applications.
+Hugging Face provides state-of-the-art machine learning models for NLP tasks.
+RAG stands for Retrieval-Augmented Generation, which combines retrieval and generation.
