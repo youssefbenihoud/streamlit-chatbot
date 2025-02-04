@@ -12,3 +12,14 @@ This is a chatbot built using Streamlit and Hugging Face Transformers. It uses R
 1. Clone the repository:
    ```bash
    git clone https://github.com/youssefbenihoud/streamlit-chatbot.git
+
+2. Install Dependencies:
+Ensure you have Python 3.7+ installed. Then, install the required libraries:
+    ```bash
+    pip install -r requirements.txt
+
+3. Run the App:
+Start the Streamlit app:
+    ```bash
+    streamlit run app.py
+Open the provided URL in your browser to interact with the chatbot.
